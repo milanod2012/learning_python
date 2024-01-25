@@ -1,1 +1,1 @@
-# aprendisaje y practica de python 
+# Repositorio de lo aprendido de manera autodidacta 
